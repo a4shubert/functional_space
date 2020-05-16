@@ -4,7 +4,7 @@ The code in this repository has been developed in support to the assymptotic for
 The class `Func` defines a general function together with all the algebraic operations.
 
 
-The funciton `Functional` converts the function into the [functional](https://en.wikipedia.org/wiki/Functional_(mathematics)). We use the `quadrature` from `scipy.integrate` package for the integration.
+The function `Functional` converts the function into the [functional](https://en.wikipedia.org/wiki/Functional_(mathematics)). We use the `quadrature` from `scipy.integrate` package for the integration.
 
 Please see this [jupyter notebook](https://nbviewer.jupyter.org/github/ashubertt/functional_space/blob/uat/jupyter/Two-Factor%20Black-Karasinski%20Pricing%20Kernel.ipynb) for the application to **Black-Karasinski Rates Asymptotic Expansion** formulae.
 
