@@ -1,5 +1,5 @@
 # Functional Space
-The code in this repository has been developed in support to the asymptotic formulae presented in the paper [Two-Factor Black-Karasinski Pricing Kernel](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420977) by Dr. Colin Turfus.
+The code in this repository has been developed in support to the asymptotic formulae presented in the paper [Two-Factor Black-Karasinski Pricing Kernel](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420977) by Dr. Colin Turfus and Alexander Shubert.
 
 The class `Func` defines a general function together with all the algebraic operations.
 
